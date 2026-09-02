@@ -1,5 +1,4 @@
-push:
-    branches: [ main, master ]
+branches: [ main, master ]
 
 jobs:
   build:
