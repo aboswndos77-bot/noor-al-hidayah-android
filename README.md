@@ -1,7 +1,4 @@
-
-
-on:
-  push:
+push:
     branches: [ main, master ]
 
 jobs:
